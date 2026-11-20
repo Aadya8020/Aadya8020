@@ -17,5 +17,4 @@ I’m still figuring out where my interests will take me, but I enjoy asking que
 
 
 
-## curious about how things work
 > exploring. learning. figuring it out.
