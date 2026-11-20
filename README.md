@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**Aadya8020/Aadya8020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Aadya, a Computer Science student based in India. I’m at the beginning of my journey with code and technology, exploring what I enjoy and learning through small, hands-on projects.
 
-Here are some ideas to get you started:
+I’m interested in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- artificial intelligence and machine learning  
+- data analytics  
+- problem-solving and coming up with practical ideas  
+- understanding how systems and technology work  
+
+Currently exploring:
+
+`Python` · `SQL` · `data structures` · `AI/ML`
+
+I’m still figuring out where my interests will take me, but I enjoy asking questions, learning how things work, and finding ways to solve problems.
+
+
+
+## curious about how things work
+> exploring. learning. figuring it out.
